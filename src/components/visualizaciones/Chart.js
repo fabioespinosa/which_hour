@@ -9,7 +9,7 @@ class Chart extends Component {
 		margin_bottom: 50,
 		margin_right: 200
 	};
-
+	//colocar etiquetas u anotaciones para saber valores especificos y hacer comparaciones
 	shouldComponentUpdate(nextProps) {
 		this.renderChart(nextProps);
 		return false;
