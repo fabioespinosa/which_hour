@@ -14,5 +14,5 @@ class Titulo extends Component {
 		);
 	}
 }
-
+//colocar etiqueta de los colores de las lineas del gráfico para saber a que se refieren
 export default Titulo;
